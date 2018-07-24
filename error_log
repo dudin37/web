@@ -1,0 +1,4 @@
+[21-Aug-2017 06:43:09 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_9gs35q8mjd9r58sod2clahrde5, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\SKRIPSI\SIGMITIGASI6\login.php on line 2
+[21-Aug-2017 06:43:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at C:\xampp\htdocs\SKRIPSI\SIGMITIGASI6\login.php:2) in C:\xampp\htdocs\SKRIPSI\SIGMITIGASI6\login.php on line 2
+[21-Aug-2017 06:45:35 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_9gs35q8mjd9r58sod2clahrde5, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\SKRIPSI\SIGMITIGASI6\login.php on line 2
+[21-Aug-2017 06:45:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at C:\xampp\htdocs\SKRIPSI\SIGMITIGASI6\login.php:2) in C:\xampp\htdocs\SKRIPSI\SIGMITIGASI6\login.php on line 2
